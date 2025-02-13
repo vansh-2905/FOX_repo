@@ -25,7 +25,7 @@ export default function Home() {
           <CategorySection 
             key={category} 
             title={category} 
-            shows={categoryShows} 
+            shows={[...categoryShows]} 
           />
         ))}
     </main>
