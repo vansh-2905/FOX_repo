@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'FOX - Your Premier Streaming Platform',
-  description: 'Stream your favorite shows and movies on FOY',
+  description: 'Stream your favorite shows and movies on FOX',
 };
 
 export default function RootLayout({
