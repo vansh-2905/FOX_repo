@@ -13,7 +13,7 @@ export function HeroSection() {
         />
       </div>
       <div className="relative z-10 text-center text-white px-4">
-        <h1 className="text-6xl font-bold mb-4">Welcome to FOY</h1>
+        <h1 className="text-6xl font-bold mb-4">Welcome to FOX</h1>
         <p className="text-xl mb-8">Your premier destination for endless entertainment</p>
         <button className="bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-3 rounded-full flex items-center gap-2 mx-auto">
           <PlayCircle className="w-5 h-5" />
