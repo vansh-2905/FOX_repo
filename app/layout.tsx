@@ -7,7 +7,7 @@ import { FloatingMenu } from '@/components/floating-menu/FloatingMenu';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'FOY - Your Premier Streaming Platform',
+  title: 'FOX - Your Premier Streaming Platform',
   description: 'Stream your favorite shows and movies on FOY',
 };
 
