@@ -5,7 +5,7 @@ import { useState } from "react";
 export function FloatingMenu() {
   const [isOpen, setIsOpen] = useState(false);
 
-  const menuItems = ["News", "Business", "Nation", "Sports", "Weather", "Tube", "Local"];
+  const menuItems = ["News", "Business", "Nation", "Sports", "Weather", "Tubi TV", "Local"];
 
   return (
     <>
