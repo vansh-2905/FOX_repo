@@ -5,7 +5,7 @@ import type { Show } from "@/lib/data/shows";
 
 type CategorySectionProps = {
   title: string;
-  shows: Show[];
+  shows: readonly Show[]; // Updated to accept readonly arrays
 };
 
 export function CategorySection({ title, shows }: CategorySectionProps) {
