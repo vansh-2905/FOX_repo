@@ -30,7 +30,7 @@ export function ChatBot() {
       {isOpen && (
         <div className="absolute bottom-20 right-0 w-80 bg-black/90 backdrop-blur-lg rounded-lg shadow-lg border border-primary/20 overflow-hidden">
           <div className="p-4 border-b border-primary/20">
-            <h3 className="text-lg font-semibold text-white">FOY Assistant</h3>
+            <h3 className="text-lg font-semibold text-white">FOX Assistant</h3>
           </div>
           
           <div className="h-64 overflow-y-auto p-4 space-y-4">
