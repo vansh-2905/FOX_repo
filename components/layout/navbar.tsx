@@ -8,7 +8,7 @@ export function Navbar() {
     <nav className="fixed top-6 left-1/2 -translate-x-1/2 z-50 bg-black/80 backdrop-blur-md rounded-full px-6 py-3 flex items-center gap-8 border border-primary/20">
       <Link href="/" className="flex items-center gap-2 text-primary hover:text-primary/80 transition-colors">
         <Film className="w-5 h-5" />
-        <span className="font-bold">FOY</span>
+        <span className="font-bold">FOX</span>
       </Link>
       
       <div className="flex items-center gap-6">
