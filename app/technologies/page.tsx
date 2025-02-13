@@ -19,7 +19,7 @@ export default function TechnologiesPage() {
           <div>
             <div className="flex items-center gap-4 text-white/80 mb-2">
               <img src="https://images.unsplash.com/photo-1533928298208-27ff66555d8d?w=50&h=50&fit=crop" alt="" className="w-12 h-12 rounded-full" />
-              <span>FOY</span>
+              <span>FOX</span>
               <span>|</span>
               <span>Thursdays at 9/8c</span>
             </div>
