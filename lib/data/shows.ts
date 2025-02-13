@@ -28,7 +28,7 @@ export const shows = {
   ],
   action: [
     { id: 4, title: "Desert Storm", image: "https://images.unsplash.com/photo-1533928298208-27ff66555d8d?w=800&auto=format&fit=crop" },
-    { id: 5, title: "Urban Warriors", image: "https://images.unsplash.com/photo-1526906144461-2df6f949eb5f?w=800&auto=format&fit=crop" },
+    { id: 5, title: "Urban Warriors", image: "https://images.unsplash.com/photo-1514924013411-cbf25faa35bb?w=800&auto=format&fit=crop" },
   ],
   drama: [
     { id: 6, title: "Lost in Time", image: "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?w=800&auto=format&fit=crop" },
